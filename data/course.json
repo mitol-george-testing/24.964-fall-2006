@@ -1,0 +1,28 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "29b32028-314d-55a5-e5a8-7770ba8ab63a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Phonology: Phonetic Realization",
+  "course_description": "Many details of phonetic realization cannot be predicted from standard phonological representations on a language-independent basis, so phonetic realization must be specified in grammar. In this seminar we will investigate phonetic realization as a component of grammar.\n\nThe basic questions that we will address are:\n\n*   What is the form of the phonetic realization component?\n*   What is its relationship to phonology?\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.964",
+  "learning_resource_types": [
+    "Demonstration Audio",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
